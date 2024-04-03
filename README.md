@@ -47,32 +47,51 @@
 <h2><strong>All Features:</strong></h2>
 <ul>
 
-    <li><p><strong>✅Installation file</strong></p></li>
-    <li><p><strong>✅User document</strong>Help you use the software quickly</p></li>
-    <li><p><strong>✅Automatic update</strong></p></li>
-    <li><p><strong>✅Whatsapp Account login</strong></p></li>
-    <li><p><strong>✅Account session Save</strong>---Automatically save your whatsapp login session(No need to scan QR repeatedly)</p></li>
-    <li><p><strong>✅Account swtich</strong>---Support multiple whatsapp accounts to switch at will</p></li>
-    <li><p><strong>✅Phone Number Bulk Generator</strong>---Quickly and batch generate phone numbers of any country</p></li>
-    <li><p><strong>✅Generator Contacts</strong>---Bulk Generator contacts</p></li>
-    <li><p><strong>✅Import Phone List|Contacts</strong>---Support import your phone number|Contacts list</p></li>
-    <li><p><strong>✅Phone Number Format</strong> Automatically format any phone number into a numeric-only number format</p></li>
-    <li><p><strong>✅Filter delays</strong>Support to set reasonable delays, protect your account security, reduce the probability of being banned</p></li>
-    <li><p><strong>✅Fast Filter</strong></p></li>
-    <li><p><strong>✅Bulk Filter</strong>---Fast Bulk Filter Whatsapp contacts </p></li>
-    <li><p><strong>✅Unlimited</strong>It has no limits on the number of contacts you can filter and manage</p></li>
-    <li><p><strong>✅Export To Csv</strong>---Export Phone Number,Username,Avatar</p></li>
-    <li><p><strong>✅Export PhoneNumber</strong>---Export valid whatsapp phone number list</p></li>
-    <li><p><strong>✅Real-time Filter</strong></p>---Real-time whatsapp number Filter</li>
-    <li><p><strong>✅Filter Report</strong>---Real-time Filter Detailed Reports and Statistics</p></li>
-    <li><p><strong>✅Filter results</strong>---Real-time display of Filter results</p></li>
+  ✅Installation file
+
+✅User documentHelp you use the software quickly
+
+✅Automatic update
+
+✅Whatsapp Account login
+
+✅Account session Save—-Automatically save your whatsapp login session(No need to scan QR repeatedly)
+
+✅Account swtich—-Support multiple whatsapp accounts to switch at will
+
+✅Phone Number Bulk Generator—-Quickly and batch generate phone numbers of any country
+
+✅Generator Contacts—-Bulk Generator contacts
+
+✅Import Phone List|Contacts—-Support import your phone number|Contacts list
+
+✅Phone Number Format Automatically format any phone number into a numeric-only number format
+
+✅Filter delaysSupport to set reasonable delays, protect your account security, reduce the probability of being banned
+
+✅Fast Filter
+
+✅Bulk Filter—-Fast Bulk Filter Whatsapp contacts
+
+✅UnlimitedIt has no limits on the number of contacts you can filter and manage
+
+✅Export To Csv—-Export Phone Number,Username,Avatar
+
+✅Export PhoneNumber—-Export valid whatsapp phone number list
+
+✅Real-time Filter
+
+—-Real-time whatsapp number Filter
+✅Filter Report—-Real-time Filter Detailed Reports and Statistics
+
+✅Filter results—-Real-time display of Filter results
 </ul>
 
 <h2><strong>Runtime Environment</strong></h2>
 <p>Win7 Win8 Win10 Win11 and Win Server<p>
 
 
-    <h2><strong>Online Support</strong></h2>
+Online Support
 <p>If you are interested in any of our products,If you have any questions,welcome to contact us.</p>
 
 <table>
